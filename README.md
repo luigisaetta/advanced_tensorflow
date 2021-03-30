@@ -3,6 +3,8 @@ This repository contains all the Notebooks and the code I have developed during 
 
 ## Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
 * Keras Functional API
+* Callbacks
+* Learning Rate Scheduler
 
 ## Course 2
 
