@@ -9,10 +9,13 @@ This repository contains all the Notebooks and the code I have developed during 
 * Callbacks
 * Learning Rate Scheduler
 * Example: Siamese Network for image similarity
+* Custom Layer
+* Custom Module
+* How to build VGG using Custom Module
 
 ## Course 2
 
-## Course 3
+## Course 3: Advanced Computer Vision with Tensorflow
 
 ## Course 4
 
